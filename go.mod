@@ -1,4 +1,4 @@
-module github.com/Pyrinpyi/go-secp256k1
+module github.com/kobradag/go-secp256k1
 
 go 1.13
 
